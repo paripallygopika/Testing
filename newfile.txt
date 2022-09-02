@@ -1,0 +1,3 @@
+im changing the txt.file from github remote .
+by cloning -- as branch --- made changes
+its remote to remote 
